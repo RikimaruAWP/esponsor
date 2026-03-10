@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "esnext",
+        "lib": [
+            "esnext",
+            "dom"
+        ],
+        "baseUrl": ".",
+        "paths": {
+            "@/*": [
+                "resources/js/*"
+            ],
+            "ziggy-js": [
+                "./vendor/tightenco/ziggy"
+            ]
+        }
+    },
+    "exclude": [
+        "node_modules",
+        "public"
+    ]
+}
