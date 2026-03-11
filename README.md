@@ -107,5 +107,5 @@ User (Breeze)
 
 ## 🎬 Demostración en Video
 
-> 🔗 **[Ver video demostrativo en YouTube/Loom](URL_DEL_VIDEO_AQUÍ)**
+> 🔗 **[Ver video demostrativo en YouTube](https://youtu.be/HLTgHaARo7k)**
 
